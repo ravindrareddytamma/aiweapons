@@ -1,0 +1,11 @@
+1. Klothed uses machine learning and computer vision to let you try on clothing virtually
+    https://getklothed.com/
+ 
+2. Type: An AI-first document editor.
+    https://type.ai/?utm_source=theneuron
+
+3. Piggy To, an AI tool that designs engaging webpages with 7-10 slides from simple text prompts. 
+    https://piggy.to/magic?utm_source=theneuron
+
+4.  Scribble Diffusion lets you turn any sketch into a refined image using AI. 
+    https://scribblediffusion.com/?utm_source=theneuron
