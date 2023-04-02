@@ -6,3 +6,21 @@ https://www.chatshape.com/?utm_source=theneuron
 
 AI Courses
 https://academy.metacrafters.io/content/chatgpt-and-generative-ai
+
+Flexible, scalable, affordable inference. Get 4x more inferences per dollar with Salad’s Inference Endpoints API.
+https://salad.com/
+
+Create brandable and memorable domain names with Domains GPT.
+https://oneword.domains/domains-gpt
+
+Akkio's Chat Explore can turn your data into charts, analyses, and explanations.
+https://www.akkio.com/chat-explore
+
+YakGPT is a ChatGPT UI that runs locally on your browser and includes mic integration.
+https://yakgpt.vercel.app/
+
+My AI Front Desk: AI-powered receptionist that you can call and text.
+https://myaifrontdesk.com/
+
+Socket AI uses ChatGPT to examine npm and PyPI packages for potential security issues.
+https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis
