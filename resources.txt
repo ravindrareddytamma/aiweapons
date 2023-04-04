@@ -24,3 +24,16 @@ https://myaifrontdesk.com/
 
 Socket AI uses ChatGPT to examine npm and PyPI packages for potential security issues.
 https://socket.dev/blog/introducing-socket-ai-chatgpt-powered-threat-analysis
+
+Translate code in dozens of languages with AI Code Translator.
+https://ai-code-translator.vercel.app/
+
+SiteGPT creates ChatGPT-like chatbots trained on your website content.
+https://sitegpt.ai/
+
+Auto-GPT can write it's own code using GPT-4 and execute python scripts.
+https://github.com/Torantulino/Auto-GPT
+
+Try Consensus. It’s a new search engine for research papers that uses LLM's to surface answers.
+https://consensus.app/search/
+
